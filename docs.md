@@ -1,5 +1,5 @@
-Navigate to Settings > Main!
+Navigate to Settings > Main.
 
 Select Always save progress.
 
-Click Save!!!
+Click Save!!
