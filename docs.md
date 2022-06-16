@@ -4,4 +4,4 @@ Select Always save progress. Change 2.
 
 Click Save. Change 3.
 
-Do something
+Do something. Change 4.
